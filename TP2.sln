@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2-Ej1", "TP2-Ej1\TP2-Ej1.csproj", "{0909A31A-232E-49B7-B268-FD7C76F551E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2-Ej2", "TP2-Ej2\TP2-Ej2.csproj", "{8F0416D4-BC15-4C21-B145-5805F9699B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2-Ej3", "TP2-Ej3\TP2-Ej3.csproj", "{FCE683C3-80C7-4D69-AA01-30E8EF951260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0909A31A-232E-49B7-B268-FD7C76F551E2}.Debug|x86.ActiveCfg = Debug|x86
+		{0909A31A-232E-49B7-B268-FD7C76F551E2}.Debug|x86.Build.0 = Debug|x86
+		{0909A31A-232E-49B7-B268-FD7C76F551E2}.Release|x86.ActiveCfg = Release|x86
+		{0909A31A-232E-49B7-B268-FD7C76F551E2}.Release|x86.Build.0 = Release|x86
+		{8F0416D4-BC15-4C21-B145-5805F9699B4B}.Debug|x86.ActiveCfg = Debug|x86
+		{8F0416D4-BC15-4C21-B145-5805F9699B4B}.Debug|x86.Build.0 = Debug|x86
+		{8F0416D4-BC15-4C21-B145-5805F9699B4B}.Release|x86.ActiveCfg = Release|x86
+		{8F0416D4-BC15-4C21-B145-5805F9699B4B}.Release|x86.Build.0 = Release|x86
+		{FCE683C3-80C7-4D69-AA01-30E8EF951260}.Debug|x86.ActiveCfg = Debug|x86
+		{FCE683C3-80C7-4D69-AA01-30E8EF951260}.Debug|x86.Build.0 = Debug|x86
+		{FCE683C3-80C7-4D69-AA01-30E8EF951260}.Release|x86.ActiveCfg = Release|x86
+		{FCE683C3-80C7-4D69-AA01-30E8EF951260}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TP2-Ej3\TP2-Ej3.csproj
+	EndGlobalSection
+EndGlobal
